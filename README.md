@@ -3,7 +3,7 @@
 professional website for my fathers taxi company
 
 ## Live
-https://taxi-gs.netlify.app/
+https://taxi-gs.de/
 
 ##features
 - Booking form with automatic email notification
